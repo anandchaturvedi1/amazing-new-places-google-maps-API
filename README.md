@@ -1,4 +1,4 @@
-# Amazing Places Nearby Tool
+# Finding Places Nearby Tool
 
 This tool uses the Google Maps API to explore amazing places nearby. When you're short on time and new to a place, it can be challenging to discover all the hidden gems a location has to offer. The current Google Maps interface often shows only a limited number of options nearby, causing many of the best places to go unnoticed.
 
